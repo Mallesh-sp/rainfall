@@ -52,8 +52,8 @@
 
 Clone the repository:
 ```bash
-git clone https://github.com/Mallesh-sp/rainfall-prediction-ai.git
-cd rainfall-prediction-ai
+git clone https://github.com/Mallesh-sp/rainfall.git
+cd rainfall
 ```
 
 Install frontend dependencies:
